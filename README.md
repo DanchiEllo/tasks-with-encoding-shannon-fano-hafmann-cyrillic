@@ -1,4 +1,4 @@
-# Several tasks related to Shannon-Fano methods and Huffman algorithms
+# Several tasks related to Shannon-Fano methods and Huffman algorithms (cyrillic)
 
 ---
 
